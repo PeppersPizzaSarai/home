@@ -7761,7 +7761,7 @@ h1, h2, h3, h4, h5,
   .ftco-intro .wrap .icon {
     width: 40px; }
     .ftco-intro .wrap .icon span {
-      color: #5c3d03;
+      color: #000;
       font-size: 20px; }
 
 .ftco-about .one-half {
@@ -7779,7 +7779,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-services {
   background: url(../images/food.png) repeat;
-  color: #5c3d03; }
+  color: #000; }
   .ftco-services .overlay {
     position: absolute;
     top: 0;
@@ -7787,7 +7787,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     right: 0;
     content: '';
-    background: #5c3d03;
+    background: #000;
     opacity: 0; }
   .ftco-services .heading-section h2 {
     color: black; }
