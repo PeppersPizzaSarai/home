@@ -8506,7 +8506,7 @@ textarea.form-control {
     font-weight: 400;
     font-size: 14px; }
   .ftco-counter .text:hover .icon span, .ftco-counter .text:focus .icon span {
-    color: #000; }
+    color: #fff; }
   .ftco-counter .text:hover .icon:after, .ftco-counter .text:focus .icon:after {
     -webkit-transform: rotate(135deg);
     -ms-transform: rotate(135deg);
