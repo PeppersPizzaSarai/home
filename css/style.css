@@ -2019,18 +2019,18 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
-  color: #212529;
-  background-color: #78d5ef;
-  border-color: #78d5ef; }
+  color: #fff;
+  background-color: #fff;
+  border-color: #fff; }
   .btn-primary:hover {
-    color: #212529;
+    color: #fff;
     background-color: #56caeb;
     border-color: #4ac7ea; }
   .btn-primary:focus, .btn-primary.focus {
     -webkit-box-shadow: 0 0 0 0.2rem rgba(120, 213, 239, 0.5);
     box-shadow: 0 0 0 0.2rem rgba(120, 213, 239, 0.5); }
   .btn-primary.disabled, .btn-primary:disabled {
-    color: #212529;
+    color: #fff;
     background-color: #78d5ef;
     border-color: #78d5ef; }
   .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
