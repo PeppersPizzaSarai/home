@@ -7761,7 +7761,7 @@ h1, h2, h3, h4, h5,
   .ftco-intro .wrap .icon {
     width: 40px; }
     .ftco-intro .wrap .icon span {
-      color: #FF0006;
+      color: #5c3d03;
       font-size: 20px; }
 
 .ftco-about .one-half {
@@ -7787,7 +7787,7 @@ h1, h2, h3, h4, h5,
     left: 0;
     right: 0;
     content: '';
-    background: #FF0006;
+    background: #5c3d03;
     opacity: 0; }
   .ftco-services .heading-section h2 {
     color: black; }
