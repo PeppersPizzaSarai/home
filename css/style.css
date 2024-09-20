@@ -8482,7 +8482,7 @@ textarea.form-control {
       right: 0;
       bottom: 0;
       content: '';
-      bordeR: 1px solid #fff;
+      bordeR: 1px solid #FF0006;
       z-index: -1;
       -moz-transition: all 0.3s ease;
       -o-transition: all 0.3s ease;
@@ -8497,7 +8497,7 @@ textarea.form-control {
       -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
       transform: translateY(-50%);
-      color: #FF0006; }
+      color: #fff; }
   .ftco-counter .text strong.number {
     font-weight: 400;
     font-size: 30px;
