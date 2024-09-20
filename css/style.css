@@ -4469,12 +4469,12 @@ button.close {
   .modal-footer > :not(:last-child) {
     margin-right: .25rem; }
 
-.modal-scrollbar-measure {
+<!--.modal-scrollbar-measure {
   position: absolute;
   top: -9999px;
   width: 50px;
   height: 50px;
-  overflow: scroll; }
+  overflow: scroll; }-->
 
 @media (min-width: 576px) {
   .modal-dialog {
