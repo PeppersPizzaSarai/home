@@ -7824,7 +7824,7 @@ h1, h2, h3, h4, h5,
   text-transform: uppercase; }
 
 .services .media-body {
-  color: #FF0006; }
+  color: #000; }
 
 .services:hover .icon span {
   color: #fff; }
